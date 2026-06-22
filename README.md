@@ -8,6 +8,10 @@ This application generates a random number between 1 and 100. The player attempt
 
 The game tracks the number of attempts and provides feedback based on performance when the correct number is guessed.
 
+## 📷 Screenshot
+
+![Number Guessing Game](NUMBER_GUESSING_GAME.png)
+
 ## ✨ Features
 
 * Graphical User Interface (GUI) using Tkinter
@@ -40,6 +44,15 @@ python game.py
 3. Receive hints until the correct number is found.
 4. View your score based on the number of attempts.
 
+## 📚 Skills Demonstrated
+
+- Python Programming
+- GUI Development with Tkinter
+- Event Handling
+- Input Validation
+- Random Number Generation
+- User Interface Design
+  
 ## 👩‍💻 Author
 
 Deepika Sahu
