@@ -1,60 +1,29 @@
-# 🎯 Number Guessing Game
+# Number Guessing Game
 
-A simple and interactive Number Guessing Game built using Python and Tkinter.
+A simple Python game where the computer randomly selects a number and the player tries to guess it.
 
-## 📌 Description
+## How to play
+- Run the program
+- Enter your guess
+- Get hints (too high / too low)
+- Try until you get the correct number
 
-This application generates a random number between 1 and 100. The player attempts to guess the number while receiving hints indicating whether the guess is too high or too low.
-
-The game tracks the number of attempts and provides feedback based on performance when the correct number is guessed.
+## Features
+- Random number generation
+- Simple user interaction
+- Beginner-friendly Python project
 
 ## 📷 Screenshot
 
 ![Number Guessing Game](NUMBER_GUESSING_GAME.png)
 
-## ✨ Features
+## Run
 
-* Graphical User Interface (GUI) using Tkinter
-* Random number generation
-* Input validation
-* Attempt counter
-* High/Low hints
-* Success message with performance feedback
-* User-friendly design
+1. Clone the repository:
+git clone https://github.com/Core-26/Number-Guessing-Game.git
 
-## 🛠 Technologies Used
+2. Navigate to the folder:
+cd Number-Guessing-Game
 
-* Python
-* Tkinter
-* Random Module
-
-## 🚀 How to Run
-
-1. Install Python on your computer.
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run:
-
-python game.py
-
-## 📷 Game Flow
-
-1. Enter a number between 1 and 100.
-2. Click **Check Guess**.
-3. Receive hints until the correct number is found.
-4. View your score based on the number of attempts.
-
-## 📚 Skills Demonstrated
-
-- Python Programming
-- GUI Development with Tkinter
-- Event Handling
-- Input Validation
-- Random Number Generation
-- User Interface Design
-  
-## 👩‍💻 Author
-
-Deepika Sahu
-
-GitHub: Core-26
+3. Run the game:
+python your_file_name.py
