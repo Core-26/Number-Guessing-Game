@@ -19,7 +19,7 @@ A simple Python game where the computer randomly selects a number and the player
 
 Below is a sample gameplay output:
 
-![Number Guessing Game](game_ss.png)
+![Number Guessing Game](NUMBER_GUESSING_GAME.png)
 
 
 ## ▶️ How to Run
