@@ -15,11 +15,12 @@ A simple Python game where the computer randomly selects a number and the player
 - Beginner-friendly Python project
 
 
-## 📷 Screenshot
+## 📸 Screenshot
 
-Here is the game in action:
+Below is a sample gameplay output:
 
 ![Number Guessing Game](NUMBER_GUESSING_GAME.png)
+
 
 ## ▶️ How to Run
 
